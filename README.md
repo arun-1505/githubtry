@@ -1,2 +1,2 @@
 # githubtry
-try github
+try github.
